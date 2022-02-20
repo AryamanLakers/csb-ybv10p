@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://aryamanlakers.github.io/csb-ybv10p/static/css/main.d0d1cadd.chunk.css",
+    "main.js": "https://aryamanlakers.github.io/csb-ybv10p/static/js/main.6348265b.chunk.js",
+    "main.js.map": "https://aryamanlakers.github.io/csb-ybv10p/static/js/main.6348265b.chunk.js.map",
+    "runtime-main.js": "https://aryamanlakers.github.io/csb-ybv10p/static/js/runtime-main.af0ff19b.js",
+    "runtime-main.js.map": "https://aryamanlakers.github.io/csb-ybv10p/static/js/runtime-main.af0ff19b.js.map",
+    "static/js/2.ff9ccd7b.chunk.js": "https://aryamanlakers.github.io/csb-ybv10p/static/js/2.ff9ccd7b.chunk.js",
+    "static/js/2.ff9ccd7b.chunk.js.map": "https://aryamanlakers.github.io/csb-ybv10p/static/js/2.ff9ccd7b.chunk.js.map",
+    "index.html": "https://aryamanlakers.github.io/csb-ybv10p/index.html",
+    "static/css/main.d0d1cadd.chunk.css.map": "https://aryamanlakers.github.io/csb-ybv10p/static/css/main.d0d1cadd.chunk.css.map",
+    "static/js/2.ff9ccd7b.chunk.js.LICENSE.txt": "https://aryamanlakers.github.io/csb-ybv10p/static/js/2.ff9ccd7b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af0ff19b.js",
+    "static/js/2.ff9ccd7b.chunk.js",
+    "static/css/main.d0d1cadd.chunk.css",
+    "static/js/main.6348265b.chunk.js"
+  ]
+}
